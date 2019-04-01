@@ -6,6 +6,6 @@
 # 2.
 ### Platformers, Shmup og Top Down.
 ##### Platformers
-##### Shmups
-##### Top Down
+##### Shmup eða Shoot em' up er týpa af 2d leik þar sem maður spilar yfirleitt
+##### Top Down er týpa af 2d leik þar sem myndavélin er þannig staðsett að það lítur út fyrir að maður sé að horfa niður.
 
